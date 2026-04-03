@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /about/
+Disallow: /contact/
+Disallow: /privacy-policy/
+Disallow: /disclaimer/
+Disallow: /terms-conditions/
+
+Sitemap: https://sellcaruae.github.io/sitemap.xml
